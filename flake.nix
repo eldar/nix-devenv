@@ -21,10 +21,10 @@
         zsh
         stow
         git
+        git-lfs
         ripgrep
         lua
         luarocks
-        tmux
         less
         neovim
         lazygit
