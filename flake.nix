@@ -18,6 +18,9 @@
         bashInteractive
         curl
         zsh
+        vim
+        htop
+        btop
         stow
         git
         git-lfs
