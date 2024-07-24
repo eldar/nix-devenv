@@ -17,6 +17,7 @@
       buildInputs = with pkgs; [
         bashInteractive
         curl
+        gnutar
         zsh
         vim
         htop
@@ -25,6 +26,7 @@
         git
         git-lfs
         ripgrep
+        yazi
         lua
         luarocks
         less
